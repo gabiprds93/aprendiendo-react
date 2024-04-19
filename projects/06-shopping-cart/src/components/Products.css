@@ -39,3 +39,15 @@
   object-fit: cover;
   background: #fff;
 }
+
+.products button {
+  color: white;
+}
+
+.products button.remove {
+  background-color: red;
+}
+
+.products button.add {
+  background-color: #09f;
+}
